@@ -1,0 +1,4 @@
+PyQt6>=6.5
+pyserial>=3.5
+# 可选：Excel 点表导入导出
+openpyxl>=3.1
